@@ -16,9 +16,12 @@ namespace GuessTheNumber
             {
                 
                 guess = Convert.ToInt32(Console.ReadLine());
-                if(guess != randomNumber)
+                if(guess < randomNumber && guess != randomNumber)
                 {
-                    Console.WriteLine("That was not the number, try again!");
+                    Console.WriteLine("Try a higher number!");
+                } else if(guess > randomNumber && guess != randomNumber)
+                {
+                    Console.WriteLine("Try a lower number!");
                 }
 
             } while (guess != randomNumber);
