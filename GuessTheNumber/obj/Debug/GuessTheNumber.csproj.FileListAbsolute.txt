@@ -1,0 +1,7 @@
+C:\Users\samch\OneDrive\Desktop\Programacion\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\samch\OneDrive\Desktop\Programacion\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\samch\OneDrive\Desktop\Programacion\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\samch\OneDrive\Desktop\Programacion\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\samch\OneDrive\Desktop\Programacion\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\samch\OneDrive\Desktop\Programacion\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\samch\OneDrive\Desktop\Programacion\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
